@@ -6,10 +6,10 @@ description: "练习Markdown语法"
 tag: 博客 
 ---
 
-# Girl
+# Head
 
 ***
-![girl](/images/girl.jpg)
+![head](/images/head.jpg)
 
 ***
 `System.out.println("hello world");`
