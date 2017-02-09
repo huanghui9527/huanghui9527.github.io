@@ -7,5 +7,4 @@ tag: 博客
 ---
 
 #Girl
-
-![girl](https://github.com/huanghui9527/huanghui9527.github.io/blob/master/images/girl.jpg)
+![girl](/images/girl.jpg)
