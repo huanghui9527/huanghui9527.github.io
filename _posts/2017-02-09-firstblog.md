@@ -36,3 +36,9 @@ tag: 博客
 | col 3 is          | right-aligned | $1600           |
 | col 2 is          | centered      | $12             |
 | zebra stripes     | are neat      | $1              |
+
+***
+
+|左对齐|居中|右对齐|
+|:-----|----|-----:|
+|QAQ   |囧  |O(∩_∩)|
